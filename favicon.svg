@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8F1E8"/>
+      <stop offset=".50" stop-color="#E7ECE8"/>
+      <stop offset="1" stop-color="#D8E3DD"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="1.4"/></filter>
+  </defs>
+  <rect width="1800" height="1000" fill="url(#sky)"/>
+  <path d="M0,598 L225,392 L356,548 L530,300 L727,587 L912,329 L1113,608 L1298,315 L1512,573 L1800,365 L1800,1000 L0,1000 Z" fill="#C8D3CC" opacity=".98"/>
+  <path d="M0,702 L262,506 L412,673 L662,454 L872,723 L1088,486 L1326,705 L1538,516 L1800,711 L1800,1000 L0,1000 Z" fill="#819889" opacity=".66"/>
+  <path d="M0,775 C212,715 401,805 617,746 C822,690 1008,821 1241,735 C1431,665 1626,740 1800,690 L1800,1000 L0,1000 Z" fill="#123C2D" opacity=".93"/>
+  <path d="M0,852 C260,802 470,881 701,835 C946,796 1112,895 1381,826 C1542,780 1675,807 1800,776 L1800,1000 L0,1000 Z" fill="#0B261D" opacity=".97"/>
+  <path d="M715,940 C895,854 1121,856 1328,926 C1162,897 920,895 715,940 Z" fill="#B6CAC7" opacity=".86"/>
+  <path d="M752,964 C950,904 1123,902 1305,957 C1102,940 941,943 752,964 Z" fill="#DCEAE6" opacity=".95"/>
+</svg>
